@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297829148457",
+    "firebase_url": "https://bruins-app.firebaseio.com",
+    "project_id": "bruins-app",
+    "storage_bucket": "bruins-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297829148457:android:dac82227b74af069",
+        "android_client_info": {
+          "package_name": "com.rishab.schs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297829148457-tjkcijsiga54hjgk9k1tjoc89gjh1gu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk5WMRHbRXYFDqHHhkx6nvV2kgijK7R3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297829148457-tjkcijsiga54hjgk9k1tjoc89gjh1gu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
